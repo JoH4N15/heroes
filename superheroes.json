@@ -1,0 +1,40 @@
+{
+  "squadName" : "La banda de sarabanda",
+  "homeTown" : "Metrallo City",
+  "formed" : 2012,
+  "secretBase" : "Super tower",
+  "active" : true,
+  "members" : [
+    {
+      "name" : "Zancudo Man",
+      "age" : -29,
+      "secretIdentity" : "El pepe",
+      "powers" : [
+        "Super Succión",
+        "irritar humanos",
+        "y nada mas..."
+      ]
+    },
+    {
+      "name" : "Junior Man",
+      "age" : 39,
+      "secretIdentity" : "Tu papa",
+      "powers" : [
+        "No ser el papa de nadie",
+        "Ser la burla del FPC",
+        "celebrarlo en curramba"
+      ]
+    },
+    {
+      "name" : "Guaracha girl",
+      "age" : 1000000,
+      "secretIdentity" : "Gina Calderon",
+      "powers" : [
+        "Zapatearlo",
+        "Sobarlo mi papa",
+        "aspiradora atomica"
+        
+      ]
+    }
+  ]
+}
